@@ -70,9 +70,9 @@ struct CalendarDayView: View {
 
     private var accessibilityText: String {
         var label = "\(day)"
-        if isToday { label += ", hoy" }
-        if isSelected { label += ", seleccionado" }
-        if !events.isEmpty { label += ", \(events.count) evento\(events.count == 1 ? "" : "s")" }
+        if isToday { label += String(localized: ", hoy") }
+        if isSelected { label += String(localized: ", seleccionado") }
+        if !events.isEmpty { label += String(localized: ", eventos: \(events.count)") }
         return label
     }
 }
