@@ -62,7 +62,7 @@ struct CalendarMonthPicker: View {
                 Button {
                     onMonthSelected(calendar.monthStart(for: .now))
                 } label: {
-                    Text("Hoy")
+                    Text("Hoy", bundle: .module)
                         .font(metrics.dayFont)
                         .foregroundStyle(.tint)
                         .frame(height: metrics.circleSize)

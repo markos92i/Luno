@@ -70,7 +70,7 @@ public struct LunoCalendar: View {
                     }
 
                 HStack(spacing: 0) {
-                    Button("Anterior", systemImage: "chevron.left") {
+                    Button(String(localized: "Anterior", bundle: .module), systemImage: "chevron.left") {
                         let current = scrolledMonth ?? month
                         navigate(to: calendar.addingMonths(showingMonthPicker ? -12 : -1, to: current))
                     }
@@ -80,7 +80,7 @@ public struct LunoCalendar: View {
                         Color.clear.frame(maxWidth: .infinity)
                     }
 
-                    Button("Siguiente", systemImage: "chevron.right") {
+                    Button(String(localized: "Siguiente", bundle: .module), systemImage: "chevron.right") {
                         let current = scrolledMonth ?? month
                         navigate(to: calendar.addingMonths(showingMonthPicker ? 12 : 1, to: current))
                     }
