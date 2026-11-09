@@ -4,6 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "Luno",
+    defaultLocalization: "es",
     platforms: [.macOS(.v15), .iOS(.v18)],
     products: [
         .library(name: "Luno", targets: ["Luno"])

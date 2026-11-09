@@ -1,354 +1,357 @@
 {
-  "sourceLanguage": "es",
-  "strings": {
-    ", eventos: %lld": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", Ereignisse: %lld"
+  "sourceLanguage" : "es",
+  "strings" : {
+    ", eventos: %lld" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", Ereignisse: %lld"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", events: %lld"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", events: %lld"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", événements : %lld"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", événements : %lld"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", eventi: %lld"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", eventi: %lld"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "、イベント%lld件"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "、イベント%lld件"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", 일정 %lld개"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", 일정 %lld개"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", eventos: %lld"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", eventos: %lld"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", события: %lld"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", события: %lld"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "，日程：%lld"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "，日程：%lld"
           }
         }
       }
     },
-    ", hoy": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", heute"
+    ", hoy" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", heute"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", today"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", today"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", aujourd'hui"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", aujourd'hui"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", oggi"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", oggi"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "、今日"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "、今日"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", 오늘"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", 오늘"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", hoje"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", hoje"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", сегодня"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", сегодня"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "，今天"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "，今天"
           }
         }
       }
     },
-    ", seleccionado": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", ausgewählt"
+    ", seleccionado" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", ausgewählt"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", selected"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", selected"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", sélectionné"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", sélectionné"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", selezionato"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", selezionato"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "、選択中"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "、選択中"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", 선택됨"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", 선택됨"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", selecionado"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", selecionado"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ", выбрано"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", выбрано"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "，已选择"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "，已选择"
           }
         }
       }
     },
-    "Anterior": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Zurück"
+    "%lld" : {
+
+    },
+    "Anterior" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurück"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Previous"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Précédent"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Précédent"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Precedente"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precedente"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "前へ"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前へ"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이전"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이전"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Anterior"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anterior"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Назад"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назад"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "上一页"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上一页"
           }
         }
       }
     },
-    "Hoy": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heute"
+    "Hoy" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Today"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aujourd'hui"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aujourd'hui"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Oggi"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "今日"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "오늘"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오늘"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hoje"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Сегодня"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодня"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "今天"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天"
           }
         }
       }
     },
-    "Siguiente": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Weiter"
+    "Siguiente" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weiter"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Next"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Suivant"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suivant"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Avanti"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avanti"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "次へ"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "次へ"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "다음"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다음"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Próximo"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximo"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Далее"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Далее"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "下一个"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一个"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }
